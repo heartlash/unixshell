@@ -1,0 +1,1 @@
+/home/adj/usp_project/shell_project/./rmemp $1

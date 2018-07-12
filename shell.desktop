@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Shell
+Comment=Basic implementation of a unix shell.
+Exec=/home/adj/usp_project/shell_project/final_shell -ui
+Icon=/home/adj/usp_project/shell_project/shell.jpg
+Terminal=true
+Type=Application
+Name[en_US]=shell

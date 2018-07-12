@@ -1,0 +1,1 @@
+grep -c $1 $2 # count the no of matches of a the pattern in a file/folder etc.
